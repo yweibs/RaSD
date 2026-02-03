@@ -1,6 +1,6 @@
 # RaSD
 
-**RaSD** (Randomized Synthesis and Disentanglement) is a scalable framework for pre-training MIFMs entirely on synthetic data.
+RaSD (Randomized Synthesis and Disentanglement) is a scalable framework for pre-training MIFMs entirely on synthetic data.
 ---
 
 ## Project Structure (summary)
@@ -14,7 +14,7 @@
 ## Quick Start
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/yweibs/RaSD
 cd RaSD
 ```
 
