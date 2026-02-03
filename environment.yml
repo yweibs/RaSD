@@ -1,0 +1,16 @@
+name: rasd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pillow
+  - scikit-image
+  - pip
+  - pip:
+    - monai>=1.1.0
+    - SimpleITK>=2.1
+    - tqdm
+    - typing-extensions
