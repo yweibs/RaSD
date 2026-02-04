@@ -1,0 +1,320 @@
+{
+    "description": "0",
+    "labels": {
+        "adrenal_gland_left": 12,
+        "adrenal_gland_right": 11,
+        "aorta": 7,
+        "autochthon_left": 100,
+        "autochthon_right": 101,
+        "background": 0,
+        "brain": 50,
+        "clavicula_left": 86,
+        "clavicula_right": 87,
+        "colon": 57,
+        "duodenum": 56,
+        "esophagus": 42,
+        "face": 93,
+        "femur_left": 88,
+        "femur_right": 89,
+        "gallbladder": 4,
+        "gluteus_maximus_left": 94,
+        "gluteus_maximus_right": 95,
+        "gluteus_medius_left": 96,
+        "gluteus_medius_right": 97,
+        "gluteus_minimus_left": 98,
+        "gluteus_minimus_right": 99,
+        "heart_atrium_left": 45,
+        "heart_atrium_right": 47,
+        "heart_myocardium": 44,
+        "heart_ventricle_left": 46,
+        "heart_ventricle_right": 48,
+        "hip_left": 90,
+        "hip_right": 91,
+        "humerus_left": 82,
+        "humerus_right": 83,
+        "iliac_artery_left": 51,
+        "iliac_artery_right": 52,
+        "iliac_vena_left": 53,
+        "iliac_vena_right": 54,
+        "iliopsoas_left": 102,
+        "iliopsoas_right": 103,
+        "inferior_vena_cava": 8,
+        "kidney_left": 3,
+        "kidney_right": 2,
+        "liver": 5,
+        "lung_lower_lobe_left": 14,
+        "lung_lower_lobe_right": 17,
+        "lung_middle_lobe_right": 16,
+        "lung_upper_lobe_left": 13,
+        "lung_upper_lobe_right": 15,
+        "pancreas": 10,
+        "portal_vein_and_splenic_vein": 9,
+        "pulmonary_artery": 49,
+        "rib_left_1": 58,
+        "rib_left_10": 67,
+        "rib_left_11": 68,
+        "rib_left_12": 69,
+        "rib_left_2": 59,
+        "rib_left_3": 60,
+        "rib_left_4": 61,
+        "rib_left_5": 62,
+        "rib_left_6": 63,
+        "rib_left_7": 64,
+        "rib_left_8": 65,
+        "rib_left_9": 66,
+        "rib_right_1": 70,
+        "rib_right_10": 79,
+        "rib_right_11": 80,
+        "rib_right_12": 81,
+        "rib_right_2": 71,
+        "rib_right_3": 72,
+        "rib_right_4": 73,
+        "rib_right_5": 74,
+        "rib_right_6": 75,
+        "rib_right_7": 76,
+        "rib_right_8": 77,
+        "rib_right_9": 78,
+        "sacrum": 92,
+        "scapula_left": 84,
+        "scapula_right": 85,
+        "small_bowel": 55,
+        "spleen": 1,
+        "stomach": 6,
+        "trachea": 43,
+        "urinary_bladder": 104,
+        "vertebrae_C1": 41,
+        "vertebrae_C2": 40,
+        "vertebrae_C3": 39,
+        "vertebrae_C4": 38,
+        "vertebrae_C5": 37,
+        "vertebrae_C6": 36,
+        "vertebrae_C7": 35,
+        "vertebrae_L1": 22,
+        "vertebrae_L2": 21,
+        "vertebrae_L3": 20,
+        "vertebrae_L4": 19,
+        "vertebrae_L5": 18,
+        "vertebrae_T1": 34,
+        "vertebrae_T10": 25,
+        "vertebrae_T11": 24,
+        "vertebrae_T12": 23,
+        "vertebrae_T2": 33,
+        "vertebrae_T3": 32,
+        "vertebrae_T4": 31,
+        "vertebrae_T5": 30,
+        "vertebrae_T6": 29,
+        "vertebrae_T7": 28,
+        "vertebrae_T8": 27,
+        "vertebrae_T9": 26
+    },
+    "licence": "hands off!",
+    "modality": {
+        "0": "CT"
+    },
+    "name": "Totalsegmentator",
+    "numTest": 65,
+    "numTraining": 911,
+    "reference": "0",
+    "release": "0.0",
+    "tensorImageSize": "4D",
+    "test": [
+        "./imagesTs/TotalSegmentator_0013_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0029_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0038_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0040_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0119_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0230_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0235_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0236_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0244_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0291_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0295_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0308_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0311_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0423_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0440_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0441_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0450_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0459_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0468_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0470_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0482_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0499_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0505_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0543_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0561_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0667_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0673_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0684_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0687_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0735_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0753_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0802_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0829_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0907_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0923_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0933_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0951_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_0994_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1051_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1053_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1057_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1075_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1094_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1096_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1112_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1119_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1121_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1152_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1174_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1176_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1184_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1192_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1195_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1212_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1240_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1248_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1249_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1276_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1322_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1323_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1347_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1355_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1357_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1377_0000.nii.gz",
+        "./imagesTs/TotalSegmentator_1386_0000.nii.gz"
+    ],
+    "training": [
+        {
+            "image": "./imagesTr/TotalSegmentator_0965_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0965.nii.gz"
+        }, 
+        {
+            "image": "./imagesTr/TotalSegmentator_0970_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0970.nii.gz"
+        }, 
+        {
+            "image": "./imagesTr/TotalSegmentator_0974_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0974.nii.gz"
+        }, 
+        {
+            "image": "./imagesTr/TotalSegmentator_0981_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0981.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0989_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0989.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0991_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0991.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0992_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0992.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0993_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0993.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_1001_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_1001.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_1004_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_1004.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_1010_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_1010.nii.gz"
+        }
+    ],
+
+    "validation": [
+        {
+            "image": "./imagesTr/TotalSegmentator_0076_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0076.nii.gz"
+        }, 
+        {
+            "image": "./imagesTr/TotalSegmentator_0088_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0088.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0091_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0091.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0224_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0224.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0287_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0287.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0334_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0334.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0412_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0412.nii.gz"
+        },
+        {       
+            "image": "./imagesTr/TotalSegmentator_0549_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0549.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0587_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0587.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0592_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0592.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0650_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0650.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0731_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0731.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0812_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0812.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0880_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0880.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0894_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0894.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_0970_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_0970.nii.gz"
+        }, 
+        {
+            "image": "./imagesTr/TotalSegmentator_1012_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_1012.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_1171_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_1171.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_1207_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_1207.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_1209_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_1209.nii.gz"
+        },
+        {
+            "image": "./imagesTr/TotalSegmentator_1228_0000.nii.gz",
+            "label": "./labelsTr/TotalSegmentator_1228.nii.gz"
+        }
+    ]
+}
