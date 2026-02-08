@@ -47,6 +47,12 @@ python gendata/gen_seg.py --data_amount 1000 --root /path/to/data --img_dir Imag
   - `--num_label`: optional override for number of labels (default shape//16)
   - `--dry_run`: generate but do not write files (quick test)
 
+- **Example synthetic datasets**: We provide sample 3D synthetic data on HuggingFace Hub:
+  - https://huggingface.co/datasets/yweibs/RaSD_synthetic_data
+  
+  You can use this to quickly test offline pretraining without generating from scratch.
+
+
 
 ## Pretraining
 Below are the common ways to run pretraining.
