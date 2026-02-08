@@ -1,0 +1,383 @@
+{
+    "description": "0",
+    "labels": {
+        "0": "background",
+        "1": "vein"
+    },
+    "licence": "hands off!",
+    "modality": {
+        "0": "Fundus"
+    },
+    "name": "DRIVE",
+    "numTest": 64,
+    "numTraining": 100,
+    "reference": "0",
+    "release": "0.0",
+    "tensorImageSize": "4D",
+    "test": [
+    ],
+    "training": [
+        {
+            "image": "./Neo_OpticDisc_images/1.png",
+            "label": "./Neo_OpticDisc_masks/1.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/2.png",
+            "label": "./Neo_OpticDisc_masks/2.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/3.png",
+            "label": "./Neo_OpticDisc_masks/3.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/4.png",
+            "label": "./Neo_OpticDisc_masks/4.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/5.png",
+            "label": "./Neo_OpticDisc_masks/5.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/6.png",
+            "label": "./Neo_OpticDisc_masks/6.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/7.png",
+            "label": "./Neo_OpticDisc_masks/7.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/8.png",
+            "label": "./Neo_OpticDisc_masks/8.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/9.png",
+            "label": "./Neo_OpticDisc_masks/9.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/10.png",
+            "label": "./Neo_OpticDisc_masks/10.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/11.png",
+            "label": "./Neo_OpticDisc_masks/11.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/12.png",
+            "label": "./Neo_OpticDisc_masks/12.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/13.png",
+            "label": "./Neo_OpticDisc_masks/13.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/14.png",
+            "label": "./Neo_OpticDisc_masks/14.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/15.png",
+            "label": "./Neo_OpticDisc_masks/15.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/16.png",
+            "label": "./Neo_OpticDisc_masks/16.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/17.png",
+            "label": "./Neo_OpticDisc_masks/17.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/18.png",
+            "label": "./Neo_OpticDisc_masks/18.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/19.png",
+            "label": "./Neo_OpticDisc_masks/19.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/20.png",
+            "label": "./Neo_OpticDisc_masks/20.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/21.png",
+            "label": "./Neo_OpticDisc_masks/21.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/22.png",
+            "label": "./Neo_OpticDisc_masks/22.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/23.png",
+            "label": "./Neo_OpticDisc_masks/23.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/24.png",
+            "label": "./Neo_OpticDisc_masks/24.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/25.png",
+            "label": "./Neo_OpticDisc_masks/25.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/26.png",
+            "label": "./Neo_OpticDisc_masks/26.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/27.png",
+            "label": "./Neo_OpticDisc_masks/27.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/28.png",
+            "label": "./Neo_OpticDisc_masks/28.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/29.png",
+            "label": "./Neo_OpticDisc_masks/29.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/30.png",
+            "label": "./Neo_OpticDisc_masks/30.png"
+        },
+         {
+            "image": "./Retcam_OpticDisc_images/1.png",
+            "label": "./Retcam_OpticDisc_masks/1.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/2.png",
+            "label": "./Retcam_OpticDisc_masks/2.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/3.png",
+            "label": "./Retcam_OpticDisc_masks/3.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/4.png",
+            "label": "./Retcam_OpticDisc_masks/4.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/5.png",
+            "label": "./Retcam_OpticDisc_masks/5.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/6.png",
+            "label": "./Retcam_OpticDisc_masks/6.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/7.png",
+            "label": "./Retcam_OpticDisc_masks/7.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/8.png",
+            "label": "./Retcam_OpticDisc_masks/8.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/9.png",
+            "label": "./Retcam_OpticDisc_masks/9.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/10.png",
+            "label": "./Retcam_OpticDisc_masks/10.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/11.png",
+            "label": "./Retcam_OpticDisc_masks/11.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/12.png",
+            "label": "./Retcam_OpticDisc_masks/12.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/13.png",
+            "label": "./Retcam_OpticDisc_masks/13.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/14.png",
+            "label": "./Retcam_OpticDisc_masks/14.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/15.png",
+            "label": "./Retcam_OpticDisc_masks/15.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/16.png",
+            "label": "./Retcam_OpticDisc_masks/16.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/17.png",
+            "label": "./Retcam_OpticDisc_masks/17.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/18.png",
+            "label": "./Retcam_OpticDisc_masks/18.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/19.png",
+            "label": "./Retcam_OpticDisc_masks/19.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/20.png",
+            "label": "./Retcam_OpticDisc_masks/20.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/21.png",
+            "label": "./Retcam_OpticDisc_masks/21.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/22.png",
+            "label": "./Retcam_OpticDisc_masks/22.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/23.png",
+            "label": "./Retcam_OpticDisc_masks/23.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/24.png",
+            "label": "./Retcam_OpticDisc_masks/24.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/25.png",
+            "label": "./Retcam_OpticDisc_masks/25.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/26.png",
+            "label": "./Retcam_OpticDisc_masks/26.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/27.png",
+            "label": "./Retcam_OpticDisc_masks/27.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/28.png",
+            "label": "./Retcam_OpticDisc_masks/28.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/29.png",
+            "label": "./Retcam_OpticDisc_masks/29.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/30.png",
+            "label": "./Retcam_OpticDisc_masks/30.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/31.png",
+            "label": "./Neo_OpticDisc_masks/31.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/32.png",
+            "label": "./Neo_OpticDisc_masks/32.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/33.png",
+            "label": "./Neo_OpticDisc_masks/33.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/34.png",
+            "label": "./Neo_OpticDisc_masks/34.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/35.png",
+            "label": "./Neo_OpticDisc_masks/35.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/31.png",
+            "label": "./Retcam_OpticDisc_masks/31.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/32.png",
+            "label": "./Retcam_OpticDisc_masks/32.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/33.png",
+            "label": "./Retcam_OpticDisc_masks/33.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/34.png",
+            "label": "./Retcam_OpticDisc_masks/34.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/35.png",
+            "label": "./Retcam_OpticDisc_masks/35.png"
+        }
+    ],
+    "validation": [
+        {
+            "image": "./Neo_OpticDisc_images/36.png",
+            "label": "./Neo_OpticDisc_masks/36.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/37.png",
+            "label": "./Neo_OpticDisc_masks/37.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/38.png",
+            "label": "./Neo_OpticDisc_masks/38.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/39.png",
+            "label": "./Neo_OpticDisc_masks/39.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/40.png",
+            "label": "./Neo_OpticDisc_masks/40.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/36.png",
+            "label": "./Retcam_OpticDisc_masks/36.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/37.png",
+            "label": "./Retcam_OpticDisc_masks/37.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/38.png",
+            "label": "./Retcam_OpticDisc_masks/38.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/39.png",
+            "label": "./Retcam_OpticDisc_masks/39.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/40.png",
+            "label": "./Retcam_OpticDisc_masks/40.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/36.png",
+            "label": "./Neo_OpticDisc_masks/36.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/37.png",
+            "label": "./Neo_OpticDisc_masks/37.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/38.png",
+            "label": "./Neo_OpticDisc_masks/38.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/39.png",
+            "label": "./Neo_OpticDisc_masks/39.png"
+        },
+        {
+            "image": "./Neo_OpticDisc_images/40.png",
+            "label": "./Neo_OpticDisc_masks/40.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/36.png",
+            "label": "./Retcam_OpticDisc_masks/36.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/37.png",
+            "label": "./Retcam_OpticDisc_masks/37.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/38.png",
+            "label": "./Retcam_OpticDisc_masks/38.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/39.png",
+            "label": "./Retcam_OpticDisc_masks/39.png"
+        },
+        {
+            "image": "./Retcam_OpticDisc_images/40.png",
+            "label": "./Retcam_OpticDisc_masks/40.png"
+        }
+    ]
+}

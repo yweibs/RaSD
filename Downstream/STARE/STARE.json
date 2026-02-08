@@ -1,0 +1,103 @@
+{
+    "description": "0",
+    "labels": {
+        "0": "background",
+        "1": "vein"
+    },
+    "licence": "hands off!",
+    "modality": {
+        "0": "Fundus"
+    },
+    "name": "DRIVE",
+    "numTest": 64,
+    "numTraining": 100,
+    "reference": "0",
+    "release": "0.0",
+    "tensorImageSize": "4D",
+    "test": [
+    ],
+    "training": [
+        {
+            "image": "./train/image/im0001.png",
+            "label": "./train/label/im0001.png"
+        },
+        {
+            "image": "./train/image/im0002.png",
+            "label": "./train/label/im0002.png"
+        },
+        {
+            "image": "./train/image/im0003.png",
+            "label": "./train/label/im0003.png"
+        },
+        {
+            "image": "./train/image/im0004.png",
+            "label": "./train/label/im0004.png"
+        },
+        {
+            "image": "./train/image/im0005.png",
+            "label": "./train/label/im0005.png"
+        },
+        {
+            "image": "./train/image/im0044.png",
+            "label": "./train/label/im0044.png"
+        },
+        {
+            "image": "./train/image/im0077.png",
+            "label": "./train/label/im0077.png"
+        },
+        {
+            "image": "./train/image/im0081.png",
+            "label": "./train/label/im0081.png"
+        },
+        {
+            "image": "./train/image/im0082.png",
+            "label": "./train/label/im0082.png"
+        },
+        {
+            "image": "./train/image/im0139.png",
+            "label": "./train/label/im0139.png"
+        },
+        {
+            "image": "./train/image/im0162.png",
+            "label": "./train/label/im0162.png"
+        },
+        {
+            "image": "./train/image/im0163.png",
+            "label": "./train/label/im0163.png"
+        },
+        {
+            "image": "./train/image/im0235.png",
+            "label": "./train/label/im0235.png"
+        },
+        {
+            "image": "./train/image/im0236.png",
+            "label": "./train/label/im0236.png"
+        }
+    ],
+    "validation": [
+        {
+            "image": "./train/image/im0239.png",
+            "label": "./train/label/im0239.png"
+        },
+        {
+            "image": "./train/image/im0240.png",
+            "label": "./train/label/im0240.png"
+        },
+        {
+            "image": "./train/image/im0255.png",
+            "label": "./train/label/im0255.png"
+        },
+        {
+            "image": "./train/image/im0291.png",
+            "label": "./train/label/im0291.png"
+        },
+        {
+            "image": "./train/image/im0319.png",
+            "label": "./train/label/im0319.png"
+        },
+        {
+            "image": "./train/image/im0324.png",
+            "label": "./train/label/im0324.png"
+        }
+    ]
+}

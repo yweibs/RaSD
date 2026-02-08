@@ -53,7 +53,6 @@ python gendata/gen_seg.py --data_amount 1000 --root /path/to/data --img_dir Imag
   You can use this to quickly test offline pretraining without generating from scratch.
 
 
-
 ## Pretraining
 Below are the common ways to run pretraining.
 

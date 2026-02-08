@@ -1,0 +1,343 @@
+{
+    "description": "0",
+    "labels": {
+        "0": "background",
+        "1": "vein"
+    },
+    "licence": "hands off!",
+    "modality": {
+        "0": "Fundus"
+    },
+    "name": "DRIVE",
+    "numTest": 64,
+    "numTraining": 100,
+    "reference": "0",
+    "release": "0.0",
+    "tensorImageSize": "4D",
+    "test": [
+    ],
+    "training": [
+        {
+            "image": "./Neo_Ridge_images/1.png",
+            "label": "./Neo_Ridge_masks/1.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/2.png",
+            "label": "./Neo_Ridge_masks/2.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/3.png",
+            "label": "./Neo_Ridge_masks/3.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/4.png",
+            "label": "./Neo_Ridge_masks/4.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/5.png",
+            "label": "./Neo_Ridge_masks/5.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/6.png",
+            "label": "./Neo_Ridge_masks/6.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/7.png",
+            "label": "./Neo_Ridge_masks/7.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/8.png",
+            "label": "./Neo_Ridge_masks/8.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/9.png",
+            "label": "./Neo_Ridge_masks/9.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/10.png",
+            "label": "./Neo_Ridge_masks/10.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/11.png",
+            "label": "./Neo_Ridge_masks/11.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/12.png",
+            "label": "./Neo_Ridge_masks/12.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/13.png",
+            "label": "./Neo_Ridge_masks/13.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/14.png",
+            "label": "./Neo_Ridge_masks/14.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/15.png",
+            "label": "./Neo_Ridge_masks/15.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/16.png",
+            "label": "./Neo_Ridge_masks/16.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/17.png",
+            "label": "./Neo_Ridge_masks/17.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/18.png",
+            "label": "./Neo_Ridge_masks/18.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/19.png",
+            "label": "./Neo_Ridge_masks/19.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/20.png",
+            "label": "./Neo_Ridge_masks/20.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/21.png",
+            "label": "./Neo_Ridge_masks/21.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/22.png",
+            "label": "./Neo_Ridge_masks/22.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/23.png",
+            "label": "./Neo_Ridge_masks/23.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/24.png",
+            "label": "./Neo_Ridge_masks/24.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/25.png",
+            "label": "./Neo_Ridge_masks/25.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/26.png",
+            "label": "./Neo_Ridge_masks/26.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/27.png",
+            "label": "./Neo_Ridge_masks/27.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/28.png",
+            "label": "./Neo_Ridge_masks/28.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/29.png",
+            "label": "./Neo_Ridge_masks/29.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/30.png",
+            "label": "./Neo_Ridge_masks/30.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/1.png",
+            "label": "./RetCam_Ridge_masks/1.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/2.png",
+            "label": "./RetCam_Ridge_masks/2.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/3.png",
+            "label": "./RetCam_Ridge_masks/3.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/4.png",
+            "label": "./RetCam_Ridge_masks/4.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/5.png",
+            "label": "./RetCam_Ridge_masks/5.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/6.png",
+            "label": "./RetCam_Ridge_masks/6.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/7.png",
+            "label": "./RetCam_Ridge_masks/7.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/8.png",
+            "label": "./RetCam_Ridge_masks/8.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/9.png",
+            "label": "./RetCam_Ridge_masks/9.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/10.png",
+            "label": "./RetCam_Ridge_masks/10.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/11.png",
+            "label": "./RetCam_Ridge_masks/11.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/12.png",
+            "label": "./RetCam_Ridge_masks/12.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/13.png",
+            "label": "./RetCam_Ridge_masks/13.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/14.png",
+            "label": "./RetCam_Ridge_masks/14.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/15.png",
+            "label": "./RetCam_Ridge_masks/15.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/16.png",
+            "label": "./RetCam_Ridge_masks/16.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/17.png",
+            "label": "./RetCam_Ridge_masks/17.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/18.png",
+            "label": "./RetCam_Ridge_masks/18.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/19.png",
+            "label": "./RetCam_Ridge_masks/19.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/20.png",
+            "label": "./RetCam_Ridge_masks/20.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/21.png",
+            "label": "./RetCam_Ridge_masks/21.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/22.png",
+            "label": "./RetCam_Ridge_masks/22.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/23.png",
+            "label": "./RetCam_Ridge_masks/23.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/24.png",
+            "label": "./RetCam_Ridge_masks/24.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/25.png",
+            "label": "./RetCam_Ridge_masks/25.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/26.png",
+            "label": "./RetCam_Ridge_masks/26.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/27.png",
+            "label": "./RetCam_Ridge_masks/27.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/28.png",
+            "label": "./RetCam_Ridge_masks/28.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/29.png",
+            "label": "./RetCam_Ridge_masks/29.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/30.png",
+            "label": "./RetCam_Ridge_masks/30.png"
+        }
+    ],
+    "validation": [
+        {
+            "image": "./Neo_Ridge_images/31.png",
+            "label": "./Neo_Ridge_masks/31.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/32.png",
+            "label": "./Neo_Ridge_masks/32.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/33.png",
+            "label": "./Neo_Ridge_masks/33.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/34.png",
+            "label": "./Neo_Ridge_masks/34.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/35.png",
+            "label": "./Neo_Ridge_masks/35.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/36.png",
+            "label": "./Neo_Ridge_masks/36.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/37.png",
+            "label": "./Neo_Ridge_masks/37.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/38.png",
+            "label": "./Neo_Ridge_masks/38.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/39.png",
+            "label": "./Neo_Ridge_masks/39.png"
+        },
+        {
+            "image": "./Neo_Ridge_images/40.png",
+            "label": "./Neo_Ridge_masks/40.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/31.png",
+            "label": "./RetCam_Ridge_masks/31.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/32.png",
+            "label": "./RetCam_Ridge_masks/32.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/33.png",
+            "label": "./RetCam_Ridge_masks/33.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/34.png",
+            "label": "./RetCam_Ridge_masks/34.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/35.png",
+            "label": "./RetCam_Ridge_masks/35.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/36.png",
+            "label": "./RetCam_Ridge_masks/36.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/37.png",
+            "label": "./RetCam_Ridge_masks/37.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/38.png",
+            "label": "./RetCam_Ridge_masks/38.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/39.png",
+            "label": "./RetCam_Ridge_masks/39.png"
+        },
+        {
+            "image": "./RetCam_Ridge_images/40.png",
+            "label": "./RetCam_Ridge_masks/40.png"
+        }
+    ]
+}

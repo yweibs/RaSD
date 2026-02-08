@@ -1,0 +1,103 @@
+{
+    "description": "0",
+    "labels": {
+        "0": "background",
+        "1": "vein"
+    },
+    "licence": "hands off!",
+    "modality": {
+        "0": "Fundus"
+    },
+    "name": "DRIVE",
+    "numTest": 64,
+    "numTraining": 100,
+    "reference": "0",
+    "release": "0.0",
+    "tensorImageSize": "4D",
+    "test": [
+    ],
+    "training": [
+        {
+            "image": "./train/images/21_training.png",
+            "label": "./label/21_manual1.png"
+        },
+        {
+            "image": "./train/images/22_training.png",
+            "label": "./label/22_manual1.png"
+        },
+        {
+            "image": "./train/images/23_training.png",
+            "label": "./label/23_manual1.png"
+        },
+        {
+            "image": "./train/images/24_training.png",
+            "label": "./label/24_manual1.png"
+        },
+        {
+            "image": "./train/images/25_training.png",
+            "label": "./label/25_manual1.png"
+        },
+        {
+            "image": "./train/images/26_training.png",
+            "label": "./label/26_manual1.png"
+        },
+        {
+            "image": "./train/images/27_training.png",
+            "label": "./label/27_manual1.png"
+        },
+        {
+            "image": "./train/images/28_training.png",
+            "label": "./label/28_manual1.png"
+        },
+        {
+            "image": "./train/images/29_training.png",
+            "label": "./label/29_manual1.png"
+        },
+        {
+            "image": "./train/images/30_training.png",
+            "label": "./label/30_manual1.png"
+        },
+        {
+            "image": "./train/images/31_training.png",
+            "label": "./label/31_manual1.png"
+        },
+        {
+            "image": "./train/images/32_training.png",
+            "label": "./label/32_manual1.png"
+        },
+        {
+            "image": "./train/images/33_training.png",
+            "label": "./label/33_manual1.png"
+        },
+        {
+            "image": "./train/images/34_training.png",
+            "label": "./label/34_manual1.png"
+        }
+    ],
+    "validation": [
+        {
+            "image": "./train/images/35_training.png",
+            "label": "./label/35_manual1.png"
+        },
+        {
+            "image": "./train/images/36_training.png",
+            "label": "./label/36_manual1.png"
+        },
+        {
+            "image": "./train/images/37_training.png",
+            "label": "./label/37_manual1.png"
+        },
+        {
+            "image": "./train/images/38_training.png",
+            "label": "./label/38_manual1.png"
+        },
+        {
+            "image": "./train/images/39_training.png",
+            "label": "./label/39_manual1.png"
+        },
+        {
+            "image": "./train/images/40_training.png",
+            "label": "./label/40_manual1.png"
+        }
+    ]
+}
